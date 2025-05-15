@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "main.h": "c",
+        "random": "c",
+        "servo.h": "c"
+    }
+}
